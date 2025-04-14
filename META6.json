@@ -1,0 +1,26 @@
+{
+  "auth": "zef:FCO",
+  "authors": [
+    "Fernando Corrêa de Oliveira"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "A L<Cromponent|https://github.com/FCO/Cromponent> for raku code (WiP)",
+  "license": "Artistic-2.0",
+  "name": "RakuCode",
+  "perl": "6.d",
+  "provides": {
+    "RakuCode": "lib/RakuCode.rakumod",
+    "RakuCode::HighLight": "lib/RakuCode/HighLight.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "https://github.com/FCO/RakuCode.git",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}

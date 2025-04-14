@@ -1,0 +1,203 @@
+.raku-code {
+	background-color: black;
+	color: white;
+	display: inline-block;
+}
+
+.raku-code-adverb {
+	color: purple;
+	font-weight: bolder;
+}
+.raku-code-adverb-q {
+	color: purple;
+}
+.raku-code-arrow {
+	color: yellow;
+	font-weight: bolder;
+}
+/*
+.raku-code-arrow-one {
+	color: red;
+}
+.raku-code-arrow-two {
+	color: red;
+}
+*/
+.raku-code-block {
+	color: blue;
+}
+.raku-code-capture {
+	color: white;
+	font-weight: bolder;
+}
+/*
+.raku-code-capture-named {
+	color: red;
+}
+*/
+.raku-code-comment {
+	color: grey;
+}
+.raku-code-constraint {
+	color: red;
+}
+.raku-code-core {
+	color: green;
+}
+/*
+.raku-code-core-say {
+	color: green;
+}
+*/
+.raku-code-doc {
+	color: grey;
+}
+.raku-code-infix {
+	color: yellow;
+}
+.raku-code-invocant {
+	color: green;
+}
+.raku-code-label {
+	color: yellow;
+	font-weight: bolder;
+}
+.raku-code-literal {
+	color: blue;
+}
+.raku-code-markup {
+	color: red;
+}
+.raku-code-meta {
+	color: red;
+}
+.raku-code-modifier {
+	color: red;
+}
+.raku-code-multi {
+	color: white;
+	font-weight: bolder;
+
+}
+.raku-code-named {
+	color: purple;
+}
+.raku-code-nqp {
+	color: red;
+}
+.raku-code-package {
+	color: yellow;
+}
+.raku-code-param {
+	color: white;
+}
+.raku-code-phaser {
+	color: red;
+}
+.raku-code-postfix {
+	color: green;
+}
+.raku-code-pragma {
+	color: red;
+}
+.raku-code-prefix {
+	color: green;
+}
+.raku-code-quote {
+	color: cyan;
+}
+.raku-code-quote-lang {
+	color: red;
+}
+.raku-code-rakudoc {
+	color: red;
+}
+.raku-code-regex {
+	color: white;
+	font-weight: bolder;
+
+}
+.raku-code-routine {
+	color: white;
+}
+.raku-code-scope {
+	color: orchid;
+}
+.raku-code-smiley {
+	color: purple;
+}
+.raku-code-stmt {
+	color: red;
+}
+.raku-code-stmt-prefix {
+	color: red;
+}
+.raku-code-stub {
+	color: red;
+}
+.raku-code-system {
+	color: red;
+}
+.raku-code-term {
+	color: yellow;
+}
+.raku-code-ternary {
+	color: green;
+}
+.raku-code-trait {
+	color: blue;
+}
+/*
+.raku-code-trait-is {
+	color: red;
+}
+*/
+.raku-code-traitmod {
+	color: red;
+}
+.raku-code-type {
+	color: cyan;
+}
+.raku-code-typer {
+	color: blue;
+}
+.raku-code-use {
+	color: yellow;
+}
+.raku-code-var {
+	color: grey;
+}
+.raku-code-var-attribute {
+	color: tomato;
+	font-weight: bolder;
+}
+.raku-code-var-compiler {
+	color: red;
+}
+.raku-code-var-dynamic {
+	color: red;
+}
+.raku-code-var-implicit {
+	color: red;
+}
+.raku-code-var-lexical {
+	color: red;
+}
+.raku-code-var-package {
+	color: green;
+}
+.raku-code-var-placeholder {
+	color: red;
+}
+.raku-code-var-rakudoc {
+	color: grey;
+}
+.raku-code-var-setting {
+	color: red;
+}
+.raku-code-var-term {
+	color: purple;
+}
+.raku-code-version {
+	color: blue;
+}

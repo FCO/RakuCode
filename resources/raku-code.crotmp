@@ -1,0 +1,11 @@
+<:use Boilerplate>
+<:use RakuCode>
+<|Boilerplate(:htmx, :title('Testing Raku Code Component'), :style-sheets('/css'))>
+	<|RakuCode>
+class :: {
+	has UInt $!id;
+	has Str  $.key;
+	has      $.value;
+}
+	</|>
+</|>
